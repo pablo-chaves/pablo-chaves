@@ -11,7 +11,7 @@ Si te interesa conocerme mas, dejo mis redes sociales donde me puedes encontrar 
 <p>Pablo161096@gmail.com</p>
 <p align="left">
 <a href="https://twitter.com/@pablo__chavez" target="blank">https://twitter.com/@pablo__chavez</a><br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-chaves-/" target="blank">https://linkedin.com/in/https://www.linkedin.com/in/pablo-chaves-/</a>
+<a href="https://www.linkedin.com/in/pablo-chaves-/" target="blank">https://linkedin.com/in/https://www.linkedin.com/in/pablo-chaves-/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
