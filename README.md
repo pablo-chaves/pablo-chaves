@@ -7,10 +7,10 @@ Inicie en la programación con un curso de python, el cual me hizo descubrir est
 
 Trabaje como supervisor en una fabrica varios años en la cual aprendí a liderar un grupo de 30 personas, llevando a cabo una producción eficiente y de calidad.
 
-Si te interesa conocerme mas, dejo mis redes sociales donde me puedes encontrar y mi mail de contacto: Pablo161096@gmail.com</p>
-<h3 align="left">Connect with me:</h3>
+Si te interesa conocerme mas, dejo mis redes sociales donde me puedes encontrar y mi mail de contacto:</p><br>
+<p>Pablo161096@gmail.com</p>
 <p align="left">
-<a href="https://twitter.com/@pablo__chavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@pablo__chavez" height="30" width="40" /></a>
+<a href="https://twitter.com/@pablo__chavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@pablo__chavez" height="30" width="40" /></a><br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-chaves-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-chaves-/" height="30" width="40" /></a>
 </p>
 
