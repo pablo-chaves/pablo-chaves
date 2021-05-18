@@ -10,8 +10,8 @@ Trabaje como supervisor en una fabrica varios años en la cual aprendí a lidera
 Si te interesa conocerme mas, dejo mis redes sociales donde me puedes encontrar y mi mail de contacto:</p><br>
 <p>Pablo161096@gmail.com</p>
 <p align="left">
-<a href="https://twitter.com/@pablo__chavez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@pablo__chavez" height="30" width="40" /></a><br>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-chaves-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pablo-chaves-/" height="30" width="40" /></a>
+<a href="https://twitter.com/@pablo__chavez" target="blank"></a><br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pablo-chaves-/" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
