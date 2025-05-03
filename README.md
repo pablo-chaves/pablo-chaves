@@ -3,9 +3,7 @@
 ![portada github2](https://user-images.githubusercontent.com/76979597/118584691-1eb5bb00-b75d-11eb-8140-b2adc9c7a600.png)
 <p>Soy un apasionado a la tecnología, desarrollador full stack. De pequeño mi sueño era ser un inventor, y ahora de grande gracias a la programación lo estoy haciendo realidad, llevando mi creatividad y mis ideas al código.
 
-Inicie en la programación con un curso de python, el cual me hizo descubrir este mundo, luego tuve la oportunidad de capacitarme en #Henry, donde aprendi diferentes tecnologías como #AdvancedJavaScript #React #Redux #Css #Node #Git entre otras, también desarrolle aptitudes de trabajo en equipo realizando un portal inmobiliario.
-
-Trabaje como supervisor en una fabrica varios años en la cual aprendí a liderar un grupo de 30 personas, llevando a cabo una producción eficiente y de calidad.
+Cuento con 4 años de experiencia especializada en desarrollo de aplicaciones móviles y web, destacándome durante los últimos dos años y medio como líder técnico de equipo. Mi enfoque combina sólidas habilidades de programación con capacidad para diseñar e implementar soluciones de alto impacto, priorizando siempre la experiencia del usuario final. He dirigido el desarrollo de múltiples proyectos móviles, garantizando arquitecturas escalables y mantenibles mientras orquesto equipos multidisciplinarios para entregar productos de calidad superior. Mi pasión por las tecnologías móviles, combinada con mi experiencia en liderazgo técnico, me posiciona idealmente para aportar valor inmediato como desarrollador, impulsando la innovación y excelencia técnica en nuevos desafíos.
 
 Si te interesa conocerme mas, dejo mis redes sociales donde me puedes encontrar y mi mail de contacto:</p><br>
 <p>Pablo161096@gmail.com</p>
