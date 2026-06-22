@@ -1,4 +1,4 @@
-# Hola, soy Pablo 👋
+# `void main() => print("Hola, soy Pablo 👋");`
 
 Soy **desarrollador Flutter** y llevo **5 años** creando aplicaciones móviles que buscan dejar huella. De pequeño soñaba con ser inventor, y ¿sabes qué? Gracias a la programación lo estoy haciendo realidad: cada día llevo mis ideas y mi creatividad al código.
 
@@ -20,16 +20,24 @@ Me gusta escribir código limpio y eficiente, pero sobre todo **pensado en quien
 
 ### 🛠️ Tecnologías
 
+**Móvil**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Backend & Servicios**
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Herramientas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-### 📊 Mis estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-chaves&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-chaves&layout=compact&theme=tokyonight)
+---
 
 ### 🌐 Encuéntrame en
 
